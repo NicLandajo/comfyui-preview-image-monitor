@@ -1,5 +1,5 @@
 # ComfyUI-Preview_Image_Monitor
-Dual monitor capability for ComfyUI allows you to have a full screen viewer for generated prompts. COMING SOON!!!
+Dual Monitors for immersive ComfyUI image viewing. Your prompts full screen. COMING SOON!!!
 
 <a href="https://www.youtube.com/watch?v=YIYe2KDTLrA" target="_blank">Watch the Preview Image Monitor Demo</a>
 
