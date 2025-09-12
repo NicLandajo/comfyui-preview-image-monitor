@@ -1,7 +1,7 @@
 <img width="1399" height="353" alt="monitors only - banner" src="https://github.com/user-attachments/assets/9e4159ac-ab89-4232-846c-0dadd3451514" />
 
 # ComfyUI-Preview_Image_Monitor
-Dual Monitors for immersive ComfyUI image viewing. Your prompts full screen!
+Multiple Monitors for immersive ComfyUI image viewing. Your prompts full screen!
 
 <a href="https://www.youtube.com/watch?v=YIYe2KDTLrA" target="_blank">Watch the Preview Image Monitor Demo</a>
 
