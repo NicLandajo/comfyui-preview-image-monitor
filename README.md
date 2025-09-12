@@ -15,14 +15,14 @@ Dual Monitors for immersive ComfyUI image viewing. Your prompts full screen. COM
 # 
 
 Quickstart: Open "1. basic install instructions.txt" file.
-
+# 
 Documentation: On the works. Youtube tutorial coming soon too.
-
+# 
 Support: "Join the community effort to keep this project evolving! Your support is crucial. A small donation—even the price of a coffee—
 from freelancers, studios, agencies, or any member of the ComfyUI community helps ensure continued development and improvement." THANK YOU!
 Donation links:
 https://buymeacoffee.com/nicolaslandajo
-
+# 
 Future Ideas for the node:
 
 - A/B Comparison Tool: Directly compare two images or node outputs to quickly evaluate different prompts, seeds, or settings.
@@ -30,7 +30,6 @@ Future Ideas for the node:
 - Universal Workflow Monitor: Visualize the output of any node in your workflow directly on your screen, eliminating the need to route images to out-of-sight parts of your graph.
 
 - Multi-Node Quadrant View: Monitor up to four different node outputs simultaneously by dividing the preview window into dedicated quadrants.
-
 
 # 
 License. Please read the license file.
