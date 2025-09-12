@@ -32,7 +32,7 @@ Future improvements and Ideas for the node:
 
 - Multi-Node Quadrant View: Monitor up to four different node outputs simultaneously by dividing the preview window into dedicated quadrants.
 
-- Adding 1366 × 768, 2560 × 1440 and 1536 × 864 resolutions.
+- Adding  1366 × 768,  2560 × 1440  and  1536 × 864  resolutions.
 # 
 License. Please read the license file.
 License type: MIT License
