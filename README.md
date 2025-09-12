@@ -5,10 +5,11 @@ Multiple Monitors for immersive ComfyUI image viewing. Your prompts full screen!
 
 <a href="https://www.youtube.com/watch?v=YIYe2KDTLrA" target="_blank">Watch the Preview Image Monitor Demo</a>
 #
-Check for regular releases: https://github.com/NicLandajo/comfyui-preview-image-monitor/releases
 
 # Preview Image Monitor is a powerful ComfyUI custom node that enables real-time image preview on any monitor connected to your system. Designed for digital artists and AI image generation workflows, it displays your generated images in a persistent, full-screen window with professional-grade viewing controls including adjustable fit modes (fit, fill, stretch, etc.), exposure/gamma/saturation adjustments, and multi-monitor support—all without interrupting your creative process.
-
+#
+Check for regular releases: https://github.com/NicLandajo/comfyui-preview-image-monitor/releases
+#
 <img width="1016" height="353" alt="desk2_1" src="https://github.com/user-attachments/assets/a5ee7492-7838-4f43-9dcc-5efa7e8d3cf9" />
 <img width="1650" height="515" alt="desk1" src="https://github.com/user-attachments/assets/7cf485b5-a9a0-44f7-822b-50ae4c66b0d5" />
 <img width="1101" height="353" alt="desk3_1" src="https://github.com/user-attachments/assets/991919f4-cb1d-42b4-b725-18560bc05dc7" />
