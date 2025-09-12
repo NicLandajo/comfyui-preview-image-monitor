@@ -22,8 +22,8 @@ Quickstart: Open "1. basic install instructions.txt" file.
 Documentation: On the works. Youtube tutorial coming soon too.
 
 # 
-Support: "Join the community effort to keep this project evolving! Your support is crucial. A small donation—even the price of a coffee—
-from freelancers, studios, agencies, or any member of the ComfyUI community helps ensure continued development and improvement." THANK YOU!
+Support: Your support is crucial. A small donation—even the price of a coffee—
+from freelancers, studios, agencies, or any member of the community helps. THANK YOU!
 
 Donation links:
 https://buymeacoffee.com/nicolaslandajo
