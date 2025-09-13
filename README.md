@@ -2,7 +2,7 @@
 
 # ComfyUI Preview Image Monitor | Your prompts full screen!
 
-# Preview Image Monitor is a powerful ComfyUI custom node that enables real-time image preview on any monitor connected to your system.
+Preview Image Monitor is a ComfyUI custom node that enables real-time image preview on any monitor connected to your system.
 It displays your generated images in full-screen with professional-grade viewing controls including adjustable fit modes
 (fit, fill, 1:1, letterboxing, pillarboxing, etc.), exposure/gamma/saturation adjustments. Select one of up to six secondary monitors.
 #
