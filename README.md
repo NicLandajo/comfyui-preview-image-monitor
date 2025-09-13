@@ -22,8 +22,7 @@ Quickstart: Open "1. basic install instructions.txt" file.
 Documentation: On the works. Youtube tutorial coming soon too.
 
 # 
-Support: A small donation—even the price of a coffee—
-from freelancers, studios, agencies, or any member of the community helps. THANK YOU!
+Support: A small donation helps a lot. THANK YOU!
 
 Donation links:
 https://buymeacoffee.com/nicolaslandajo
