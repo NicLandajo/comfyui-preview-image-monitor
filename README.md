@@ -29,11 +29,11 @@ https://buymeacoffee.com/nicolaslandajo
 # 
 Future improvements and Ideas for the node:
 
-- A/B Comparison Tool: Directly compare two images or node outputs to quickly evaluate different prompts, seeds, or settings.
+- WIPE A/B Comparison Tool: Directly compare two images or node outputs to quickly evaluate different prompts, seeds, or settings.
 
-- Universal Workflow Monitor: Visualize the output of any node in your workflow directly on your screen, eliminating the need to route images to out-of-sight parts of your graph.
+- Workflow Node Image cache/buffer: preview and compare outputs from any node in your workflow using hotkeys.
 
-- Multi-Node Quadrant View: Monitor up to four different node outputs simultaneously by dividing the preview window into dedicated quadrants.
+- Multi-Node Quadrant View: Monitor up to four different node outputs simultaneously by dividing the preview window into 4 dedicated quadrants.
 
 - Adding  1366 × 768,  2560 × 1440  and  1536 × 864  resolutions.
 # 
