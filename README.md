@@ -23,9 +23,8 @@ Quickstart: Open "1. basic install instructions.txt" file.
 Documentation: On the works. Youtube tutorial coming soon too.
 
 # 
-Support: A small donation helps a lot. THANK YOU!
+☕︎Support: A small donation helps a lot. THANK YOU!☕︎
 
-Donation links:
 https://buymeacoffee.com/nicolaslandajo
 # 
 Future improvements and Ideas for the node:
