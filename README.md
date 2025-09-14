@@ -1,9 +1,9 @@
 <img width="1399" height="353" alt="monitors only - banner" src="https://github.com/user-attachments/assets/9e4159ac-ab89-4232-846c-0dadd3451514" />
 
-# Preview Image Monitor | Your prompts full screen!
+# Preview Image Monitor | Your prompts Fullscreen!
 
 Preview Image Monitor is a ComfyUI custom node that enables real-time image preview on any monitor connected to your system.
-It displays your generated images in full-screen with professional-grade viewing controls including adjustable fit modes
+It displays your generated images in fullscreen with professional grade viewing controls including adjustable fit modes
 (fit, fill, 1:1, letterboxing, pillarboxing, etc.), exposure/gamma/saturation adjustments.
 Select one of up to six secondary monitors.
 
