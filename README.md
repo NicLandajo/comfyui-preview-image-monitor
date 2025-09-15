@@ -14,7 +14,7 @@ Select one of up to six secondary monitors.
 
 #
 
-<a href="https://www.youtube.com/watch?v=YIYe2KDTLrA" target="_blank">Watch the Preview Image Monitor Demo</a>
+<a href="https://www.youtube.com/watch?v=YIYe2KDTLrA" target="_blank">Watch the Preview Image Monitor Trailer</a>
 
 # 
 Quickstart: Open "1. basic install instructions.txt" file.
