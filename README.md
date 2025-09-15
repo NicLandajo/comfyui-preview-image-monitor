@@ -19,6 +19,7 @@ Select one of up to six secondary monitors.
 # 
 📚 QUICKSTART📚:
 
+- download the latest version and extract the file.
 - Please open the "1. basic install instructions.txt" file.
 - We encourage you to read the "welcome to Preview_Image_Monitor for ComfyUI.txt"
   user guide in the "3. node tutorial" folder before starting using the node for the first time.
