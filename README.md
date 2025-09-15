@@ -14,7 +14,8 @@ Select one of up to six secondary monitors.
 
 #
 
-https://www.youtube.com/watch?v=GyDteyO-0Bk Watch the Preview Image Monitor v1.1 Interface Walkthrough
+<a href="https://www.youtube.com/watch?v=GyDteyO-0Bk" target="_blank">Watch the Preview Image Monitor v1.1 Interface Walkthrough</a>
+
 <a href="https://www.youtube.com/watch?v=YIYe2KDTLrA" target="_blank">Watch the Preview Image Monitor Trailer</a>
 
 # 
