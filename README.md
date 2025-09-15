@@ -17,7 +17,12 @@ Select one of up to six secondary monitors.
 <a href="https://www.youtube.com/watch?v=YIYe2KDTLrA" target="_blank">Watch the Preview Image Monitor Trailer</a>
 
 # 
-Quickstart: Open "1. basic install instructions.txt" file.
+📚 QUICKSTART📚:
+
+- Please open the "1. basic install instructions.txt" file.
+- We encourage you to read the "welcome to Preview_Image_Monitor for ComfyUI.txt"
+  user guide in the "3. node tutorial" folder before starting using the node for the first time.
+- We´ll publish a youtube tutorial soon.
 
 # 
 Documentation: Written tutorial included. Youtube video coming soon.
