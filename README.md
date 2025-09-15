@@ -20,7 +20,7 @@ Select one of up to six secondary monitors.
 Quickstart: Open "1. basic install instructions.txt" file.
 
 # 
-Documentation: On the works. Youtube tutorial coming soon too.
+Documentation: Written tutorial included. Youtube video coming soon.
 
 # 
 ☕︎ Support: A small donation helps a lot. THANK YOU! ☕︎
