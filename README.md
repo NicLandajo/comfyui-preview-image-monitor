@@ -26,7 +26,7 @@ The display renders as a background layer, ensuring all active windows remain vi
   user guide in the "3. node tutorial" folder before starting using the node for the first time.
 
 # 
-Documentation: Written tutorial included. Youtube video coming soon.
+Documentation: Written tutorial included.
 
 # 
 ☕︎ Support: A small donation helps a lot. THANK YOU! ☕︎
