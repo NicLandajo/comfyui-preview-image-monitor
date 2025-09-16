@@ -51,3 +51,8 @@ Preview Image Monitor relies on the powerful Pygame library to handle cross-plat
 We extend our sincere thanks to the Pygame developers and contributors for their invaluable work.
 https://github.com/pygame
 #
+📰 NEWS📰 
+
+We´re experimenting with installing "pygame" (the preview image monitor node dependency) directly with 1 click from the Comfyui Manager "Install Pip Packages" section, so maybe that´s another option (and maybe the best one), experimental but it will simplify the user install experience a lot and the .bat files that try to make things simple now, might be removed from future releases of preview image monitor (or be there as a second option).
+
+<img width="1075" height="510" alt="pip install" src="https://github.com/user-attachments/assets/c7e9f8a7-2327-4a5c-a321-f360ba967531" />
