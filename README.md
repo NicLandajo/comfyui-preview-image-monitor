@@ -17,8 +17,6 @@ The display renders as a background layer, ensuring all active windows remain vi
 
 <a href="https://www.youtube.com/watch?v=GyDteyO-0Bk" target="_blank">Watch the Preview Image Monitor v1.1 Interface Walkthrough</a>
 
-<a href="https://www.youtube.com/watch?v=YIYe2KDTLrA" target="_blank">Watch the Preview Image Monitor Trailer</a>
-
 # 
 📚 QUICKSTART📚:
 
