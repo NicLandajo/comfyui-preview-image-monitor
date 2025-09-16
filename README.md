@@ -26,7 +26,6 @@ The display renders as a background layer, ensuring all active windows remain vi
 - Please open the "1. basic install instructions.txt" file.
 - We also encourage you to read the "welcome to Preview_Image_Monitor for ComfyUI.txt"
   user guide in the "3. node tutorial" folder before starting using the node for the first time.
-- We´ll publish a youtube tutorial soon.
 
 # 
 Documentation: Written tutorial included. Youtube video coming soon.
