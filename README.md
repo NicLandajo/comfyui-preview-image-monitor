@@ -56,3 +56,4 @@ https://github.com/pygame
 🖥️🖥️Preview Image Monitor v2.0🖥️🖥️ now in progress. Tools to facilitate look development, on-screen references, information and scopes among other improvements.
 <img width="1920" height="1079" alt="pim pro wip" src="https://github.com/user-attachments/assets/f8820ae5-14ba-4e87-be20-a9a280ab92a3" />
 <img width="1920" height="1077" alt="pro2" src="https://github.com/user-attachments/assets/f1483a37-f835-4d88-9c58-82d73b566068" />
+<img width="1920" height="1074" alt="pro3" src="https://github.com/user-attachments/assets/932e0964-5497-4c8e-a705-c4612a53e57c" />
