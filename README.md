@@ -33,7 +33,7 @@ Documentation: Written tutorial included.
 
 https://buymeacoffee.com/nicolaslandajo
 
-Share this tool with anyone you think would enjoy it! 🌍
+🌍 Share this tool with anyone you think would enjoy it! 🌍
 # 
 Future improvements and Ideas for the node:
 
