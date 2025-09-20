@@ -32,6 +32,8 @@ Documentation: Written tutorial included.
 ☕︎ Support: A small donation helps a lot. THANK YOU! ☕︎
 
 https://buymeacoffee.com/nicolaslandajo
+
+Share this tool with anyone you think would enjoy it! 🌍
 # 
 Future improvements and Ideas for the node:
 
