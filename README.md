@@ -38,6 +38,7 @@ Documentation: Written tutorial included.
 🌍 Share this tool with anyone you think would enjoy it! 🌍
 🪲 Report any bugs you come across
 📄 Contribute improvements
+
 # 
 Future improvements and Ideas for the node:
 
