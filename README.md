@@ -44,8 +44,6 @@ Future improvements and Ideas for the node:
 
 - Workflow Node Image cache/buffer: preview and compare outputs from any node in your workflow using hotkeys.
 
-- Multi-Node Quadrant View: Monitor up to four different node outputs simultaneously by dividing the preview window into 4 dedicated quadrants.
-
 - Adding  1366 × 768,  2560 × 1440  and  1536 × 864  resolutions.
 # 
 License. Please read the license file.
