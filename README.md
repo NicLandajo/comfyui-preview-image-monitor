@@ -2,7 +2,7 @@
 
 # <h1 align="center">Preview Image Monitor 🖥️🖥️ Multimonitor Fullscreen!</h1>
 
-Preview Image Monitor Pro is a ComfyUI custom node that enables real-time image preview on any monitor connected to your system.
+The first full-screen and multi-monitor solution for ComfyUI. It enables real-time image preview on any monitor connected to your system.
 It displays your generated images in fullscreen with professional grade viewing controls including adjustable fit modes
 (fit, fill, 1:1, letterboxing, pillarboxing, etc.), exposure/gamma/saturation adjustments, color scopes and lookdev tools.
 Select one of up to six secondary monitors.
@@ -12,7 +12,6 @@ The display renders as a background layer, ensuring all active windows remain vi
 <img width="1650" height="515" alt="desk1" src="https://github.com/user-attachments/assets/7cf485b5-a9a0-44f7-822b-50ae4c66b0d5" />
 <img width="1101" height="353" alt="desk3_1" src="https://github.com/user-attachments/assets/991919f4-cb1d-42b4-b725-18560bc05dc7" />
 <img width="1920" height="1048" alt="interface" src="https://github.com/user-attachments/assets/47b7f5ff-848d-4b9e-b7c2-e83bb7bf1c4b" />
-
 
 #
 
