@@ -46,9 +46,7 @@ Future improvements and Ideas for the node:
 - Workflow Node Image cache/buffer: preview and compare outputs from any node in your workflow using hotkeys.
 
 - Adding  1366 × 768,  2560 × 1440  and  1536 × 864  resolutions.
-# 
-License. Please read the license file.
-License type: MIT License
+
 #
 🐍 Special Thanks to PyGame 🐍
 Preview Image Monitor relies on the powerful Pygame library to handle cross-platform window creation, display management, and image rendering.
@@ -70,4 +68,8 @@ Some cool updates are:
 <img width="1920" height="1077" alt="pro2" src="https://github.com/user-attachments/assets/f1483a37-f835-4d88-9c58-82d73b566068" />
 <img width="1920" height="1079" alt="pro4" src="https://github.com/user-attachments/assets/16e1b027-7548-44ee-95dd-e2f080501ebe" />
 <img width="1920" height="933" alt="pro5" src="https://github.com/user-attachments/assets/789fb75c-b68f-40c3-aeda-726c6cde3a76" />
+
+# 
+License. Please read the license file.
+License type: MIT License
 
