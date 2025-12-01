@@ -1,4 +1,4 @@
-<img width="1399" height="353" alt="monitors only - banner" src="https://github.com/user-attachments/assets/9e4159ac-ab89-4232-846c-0dadd3451514" />
+<img width="1343" height="503" alt="longBanner" src="https://github.com/user-attachments/assets/f05dc2fb-24fe-452b-9ded-1e8d8818a317" />
 
 # <h1 align="center">Preview Image Monitor 🖥️🖥️ Multimonitor Fullscreen!</h1>
 
