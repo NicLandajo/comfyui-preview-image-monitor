@@ -30,7 +30,7 @@ The display renders as a background layer, ensuring all active windows remain vi
 # 
 ☕︎ Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/nicolaslandajo
 
-⭐ Can’t or don’t feel like donating? No worries at all! Just giving the repo a star helps others discover it, and that support means the world
+⭐ Can’t or don’t feel like donating? No worries at all! Just giving the repo a star helps others discover it, and that support means the world
 
 🌍 Share this tool with anyone you think would enjoy it! 🌍
 
