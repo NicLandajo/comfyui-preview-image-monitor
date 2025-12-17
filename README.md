@@ -8,6 +8,12 @@ It displays your generated images in fullscreen with professional grade viewing 
 Select one of up to six secondary monitors.
 The display renders as a background layer, ensuring all active windows remain visible and unobstructed.
 
+#
+
+Note for users: This node will likely be moved to PreviewVideoMonitorPro as all features will also be available there.
+This will simplify the development and efforts and unify alll in one node.
+#
+
 <img width="1016" height="353" alt="desk2_1" src="https://github.com/user-attachments/assets/a5ee7492-7838-4f43-9dcc-5efa7e8d3cf9" />
 <img width="1650" height="515" alt="desk1" src="https://github.com/user-attachments/assets/7cf485b5-a9a0-44f7-822b-50ae4c66b0d5" />
 <img width="1101" height="353" alt="desk3_1" src="https://github.com/user-attachments/assets/991919f4-cb1d-42b4-b725-18560bc05dc7" />
