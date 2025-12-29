@@ -10,8 +10,8 @@ The display renders as a background layer, ensuring all active windows remain vi
 
 #
 
-# Note for users: This node will likely be moved to PreviewVideoMonitorPro as all features will also be available there.
-This will simplify the development and efforts and unify alll in one node.
+Note for users: This node will likely be moved to PreviewVideoMonitorPro as all features will also be available there.
+This will simplify the development and efforts and unify alll in one node. Will let you know in advance if this happens.
 #
 
 <img width="1016" height="353" alt="desk2_1" src="https://github.com/user-attachments/assets/a5ee7492-7838-4f43-9dcc-5efa7e8d3cf9" />
