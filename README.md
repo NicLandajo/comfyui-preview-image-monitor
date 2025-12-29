@@ -10,7 +10,7 @@ The display renders as a background layer, ensuring all active windows remain vi
 
 #
 
-Note for users: This node will likely be moved to PreviewVideoMonitorPro as all features will also be available there.
+# Note for users: This node will likely be moved to PreviewVideoMonitorPro as all features will also be available there.
 This will simplify the development and efforts and unify alll in one node.
 #
 
